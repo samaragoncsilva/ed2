@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1781915238 source:c:\users\samar\onedrive\desktop\ed22\ed22\bloom.c
+
+1781914881 source:c:\users\samar\onedrive\desktop\ed22\ed22\hash.c
+
+1743445502 source:c:\users\samar\onedrive\desktop\ed22\ed22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1782065353 source:c:\users\samar\onedrive\desktop\ed22\ed22\teste\gerador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1782090083 source:c:\ed22\bloom.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bloom.h"
+
+1782090083 source:c:\ed22\hash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash.h"
+
+1782157186 source:c:\ed22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"hash.h"
+	"bloom.h"
+
+1782073922 source:c:\ed22\teste\gerador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1782258974 c:\ed22\bloom.h
+
+1782090083 c:\ed22\hash.h
+
